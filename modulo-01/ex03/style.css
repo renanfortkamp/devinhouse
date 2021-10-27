@@ -1,0 +1,21 @@
+*{
+    margin:0;
+}
+
+#sec{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    width: 230px;
+    height: 75px;
+}
+
+
