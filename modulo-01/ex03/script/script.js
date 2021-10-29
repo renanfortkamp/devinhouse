@@ -1,46 +1,43 @@
-var click = 1;
-
 const confirm = function(){
+    var click = Math.floor(Math.random() * 8);
     switch(click){
         case 0: 
-            document.querySelector('.box-item').textContent = 'Não vou desistir!!';
-            alert("Voce denovo?");
-            click++
+            alert(`“Antes do software poder ser reutilizável ele primeiro tem de ser utilizável.”
+            Ralph Johnson`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 1: 
-            alert("Voce deseja realmente realizar essa ação?");
-            document.querySelector('.box-item').textContent = 'Sim';
-            click++
+            alert(`“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
+            Bill Gates`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 2: 
-            alert("Voce deseja realmente mesmo realizar essa ação?");            
-            document.querySelector('.box-item').textContent = 'Sim';
-            click++
+            alert(`“Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles.”
+            Edsger Dijkstra`);            
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 3: 
-            alert("Voce tem certeza absoluta que deseja realizar essa ação?");
-            document.querySelector('.box-item').textContent = 'Sim';
-            click++
+            alert(`“O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
+            Autor desconhecido`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 4: 
-            alert("Voce não vai se arrepender de realizar essa ação?");
-            document.querySelector('.box-item').textContent = 'Não vou!';
-            click++
+            alert(`“Um computador permite que você faça mais erros mais rapidamente do que qualquer outra invenção da história da humanidade, com exceção das mãos e da tequila.”
+            Mitch Ratcliffe`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 5: 
-            alert("Voce jura de pés juntos?");
-            document.querySelector('.box-item').textContent = 'Juro';
-            click++
+            alert(`” A arte de programar consiste em organizar e dominar a complexidade. ”
+            Edsger W. Dijkstra`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
         case 6: 
-            alert("Voce não sabe oque esta fazendo!");
-            document.querySelector('.box-item').textContent = 'Sei sim';
-            click++
+            alert(`Ninguém na breve história da computação jamais escreveu um software perfeito. É improvável que você seja o primeiro. - Andy Hunt`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;
-        default:
-            alert("Voce é insistente, vai ter que tentar mais para me convencer!");
-            document.querySelector('.box-item').textContent = '❤️';
-            click = 0;
+        case 7:
+            alert(`Todos neste país deveriam aprender a programar um computador porque ele ensina a pensar. - Steve Jobs`);
+            document.querySelector('.box-item').textContent = 'Mensagem Aleatória';
         break;       
     }
 }
