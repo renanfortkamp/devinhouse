@@ -7,19 +7,19 @@ Relembrando: P.A. (Progressão Aritmética) é uma sequência numérica em que c
 
 Exemplo: Valor inicial = 1; raiz = 3; P.A. = 1, 4, 7, 10, 13, 16, 19, 22, 25, 28. */
 
-var valorInicial = parseInt(prompt("Digite um valor!(Exemplo: 1,5)"));
-const Raiz = parseInt(prompt("Digite outro valor que será a raiz!(Exemplo: 10,5,2)"))
+var valorInicial = Number(prompt("Digite um valor!(Exemplo: 1,5)"));
+const Raiz = Number(prompt("Digite outro valor que será a raiz!(Exemplo: 10,5,2)"))
 
 const calculoProgressao = () =>{
-    if(!isNaN(valorInicial) && !isNaN(Raiz)){{
+    if(isNaN(valorInicial) || isNaN(Raiz)){
+        alert("Você não digitou numeros, recarrega a pagina e digite novamente")
+    } else { 
         var progressaoAritmetica = [valorInicial]
         for(i = 0;i < 9; i++){
             valorInicial += Raiz;
             progressaoAritmetica.push(valorInicial);
-        }}
-            alert(`Progressão Aritmética dos 10 primeiros valores da sequência é ${progressaoAritmetica}`);
-    } else { 
-            alert("Você não digitou numeros, recarrega a pagina e digite novamente")
+        }
+        alert(`Progressão Aritmética dos 10 primeiros valores da sequência é ${progressaoAritmetica}`);
     }
 }
 

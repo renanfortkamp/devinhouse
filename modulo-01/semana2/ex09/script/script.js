@@ -6,8 +6,10 @@
 Em seguida, realize o cálculo e exiba na tela um “alert” contendo o texto “O resultado do seu cálculo é: X”, onde X é o resultado final do cálculo solicitado pelo usuário. */
 
 var operador = prompt("Qual o tipo de cálculo deseja fazer ? (Exemplo: “+”, “-”, “*” ou “/”)");
-var primeiroValor = parseInt(prompt("Digite o primeiro valor que deseja calcular! (Exemplo: 20, 10)"));
-var segundoValor = parseInt(prompt("Digite o segundo valor que deseja calcular! (Exemplo: 5, 30)"));
+var primeiroValor = Number(prompt("Digite o primeiro valor que deseja calcular! (Exemplo: 20, 10)"));
+var segundoValor = Number(prompt("Digite o segundo valor que deseja calcular! (Exemplo: 5, 30)"));
+
+
 
 const calcular =()=>{
     switch(operador){
@@ -32,4 +34,10 @@ const calcular =()=>{
     }
 
 }
-calcular()
+
+const validaNumber = () =>{
+    if(isNaN(primeiroValor) || isNaN(segundoValor)){
+        alert("Valor digitado invalido, recarrega a pagina e digite novamente valores inteiros!")
+    } else(calcular())
+}
+validaNumber()

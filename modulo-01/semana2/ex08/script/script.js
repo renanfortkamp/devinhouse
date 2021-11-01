@@ -4,8 +4,8 @@
 
 Em seguida, exiba na tela um “alert” contendo o texto “Sua idade é x ou y”, onde x é a idade do usuário, caso ele já tenha feito aniversário neste ano, e y é a idade caso ele ainda não tenha aniversariado no ano corrente. */
 
-var anoNascimento = parseInt(prompt("Digite o ano de seu nascimento!"));
-var anoAtual = parseInt(prompt("Digite o ano atual!"));
+var anoNascimento = Number(prompt("Digite o ano de seu nascimento!"));
+var anoAtual = Number(prompt("Digite o ano atual!"));
 var idadeAntes = anoAtual - anoNascimento -1;
 var idadeDepois = anoAtual - anoNascimento;
 
