@@ -1,6 +1,11 @@
 *{
     margin: 0px;
 }
+body{
+    background-color: rgb(245, 239, 255);
+    
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -28,11 +33,34 @@ section{
     border: 1px blue solid;
     justify-content: space-between;
 }
+#novmes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(223, 225, 252);
+    border: solid 1px black;
+}
 
 #conteudo{
     height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
+article{
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    background-color: rgb(242, 242, 243);
+    border: 3px solid rgb(196, 194, 194);
+    margin-bottom: 20px;
+}
+.cabeçalhoArtigo{
+    background-color: rgb(236, 236, 238);
+    border-bottom:4px solid rgb(117, 117, 117);
+}
 #asideLeft{
     display: flex;
     width: 400px;
@@ -57,7 +85,19 @@ section{
 }
 
 .headernews{
+    height: 40px;
+    background-color: rgb(223, 225, 252);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
-    background-color: red;
+    border: 1px solid black;
 }
 
+div>li{
+    box-sizing: border-box;
+    background-color: rgb(242, 242, 243);
+    margin-top: 5px;
+    border: 2px solid rgb(97, 97, 97);
+
+}
