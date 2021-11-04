@@ -12,15 +12,46 @@ body{
 
 main{
     width: 500px;
-    height: 500px;
-    border: 1px red solid;
-    background-color: blue;
+    height: max-content;
+    border: 4px rgb(0, 0, 0) solid;
+    background: rgb(31, 74, 155);
+background: linear-gradient(43deg, rgba(0,82,87,1) 0%, rgba(2,175,241,1) 23%, rgba(0,212,255,1) 47%, rgba(0,164,255,1) 83%);
 
 }
 
 h1{
-    font-size: 1.4rem;
-    border: 1px red solid;
+    box-sizing: border-box;
+    font-size: 3rem;
     text-align: center;
+    border-bottom: 3px solid rgb(0, 0, 0);
 }
 
+button{
+    width: 300px;
+    height: 80px;
+    font-size: 2.7rem;
+}
+#conteudo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+input{
+    font-size: 1.2rem;
+    width: 165px;
+}
+label{
+    font-size: 1.6rem;
+}
+#resultado{
+    margin: 40px 100px;
+    text-align: center;
+    
+}
+h2{
+    margin-top: 35px;
+    font-size: 8rem;
+}
+section{
+}

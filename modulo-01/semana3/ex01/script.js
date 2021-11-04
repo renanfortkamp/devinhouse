@@ -9,11 +9,17 @@ const calcularIdade = ()=>{
     let anoNascimento = parseInt(dataNascimento.slice(0,4));
     let mesNascimento = parseInt(dataNascimento.slice(5,7));
     let diaNascimento = parseInt(dataNascimento.slice(8,10));
-    if(dia > diaNascimento && mes >= mesNascimento || dia < diaNascimento && mes > mesNascimento){
-        let idade = ano - anoNascimento;
-        document.querySelector("h2").innerText = idade;
-    } else{
-        let idade = ano - anoNascimento - 1;
-        document.querySelector("h2").innerText = idade;
+    if(isNaN(anoNascimento) || isNaN(mesNascimento) || isNaN(diaNascimento)){
+        alert("Você não inseriu sua data de nascimento, insira para obter sua idade");
+    }else{
+        if(dia > diaNascimento && mes >= mesNascimento && ano >= anoNascimento || dia < diaNascimento && mes > mesNascimento && ano >= anoNascimento){
+            let idade = ano - anoNascimento;
+            document.querySelector("h2").innerText = idade;
+        } else if(diaNascimento >= dia && mesNascimento >= mes && anoNascimento >= anoNascimento || diaNascimento < dia && mesNascimento > mes && anoNascimento >= ano){
+            alert("Insira a data corretamente!")
+        } else{
+            let idade = ano - anoNascimento - 1;
+            document.querySelector("h2").innerText = idade;
+        }
     }
 }
