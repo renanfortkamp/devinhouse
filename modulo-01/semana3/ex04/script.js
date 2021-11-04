@@ -6,10 +6,10 @@ const addZero = (i) =>{
   }
   
   const liveTime = () => {
-    var data = new Date();
-    var h = data.getHours();
-    var m = data.getMinutes();
-    var s = data.getSeconds();
+    let data = new Date();
+    let h = data.getHours();
+    let m = data.getMinutes();
+    let s = data.getSeconds();
     m = addZero(m);
     s = addZero(s);
     document.getElementById('time').innerHTML = h + ":" + m + ":" + s;
