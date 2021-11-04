@@ -1,5 +1,80 @@
-h1{
-    border: 1px solid #000000;
-    width: 400px;
-    height: 40px;
-}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  main{
+    
+    border: 3px black solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;  
+    background-color: gray;
+    
+  }
+  
+  H1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom:15px;
+    border: 3px black solid;
+    width: 366px;
+    background-color: white;
+  }
+  
+  #visor{
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      width: 366px;
+      height: 150px;
+      border: 3px black solid;
+      margin-bottom: 15px;
+      background-color: white;
+  }
+  
+  h2{
+     font-size: 10rem
+  }
+  
+  #valores{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+  }
+  
+  input{
+    height: 150px;
+    width: 168px;
+    margin-bottom: 16px;
+    font-size: 7rem;
+    text-align: center;
+    
+    border: 3px black solid;
+  }
+  
+  #botoes{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    
+  }
+  
+  button{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 16px;
+    font-size: 3rem;
+    border: 3px black solid;
+  }

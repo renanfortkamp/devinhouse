@@ -4,19 +4,19 @@ const calcula = (op) =>{
     switch(op){
         case "+":
         soma = valorA + valorB;
-        document.querySelector('h1').innerText = soma;
+        document.querySelector('h2').innerText = soma;
         break;
         case "-":
         soma = valorA - valorB;
-        document.querySelector('h1').innerText = soma;
+        document.querySelector('h2').innerText = soma;
         break;
         case "*":
         soma = valorA * valorB;
-        document.querySelector('h1').innerText = soma;
+        document.querySelector('h2').innerText = soma;
         break;
         case "/":
         soma = valorA / valorB;
-        document.querySelector('h1').innerText = soma;
+        document.querySelector('h2').innerText = soma;
         break;
     }
 }
