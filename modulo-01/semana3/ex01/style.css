@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+main{
+    width: 500px;
+    height: 500px;
+    border: 1px red solid;
+    background-color: blue;
+
+}
+
+h1{
+    font-size: 1.4rem;
+    border: 1px red solid;
+    text-align: center;
+}
+
