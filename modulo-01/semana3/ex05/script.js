@@ -5,7 +5,7 @@ const addZero = (i) =>{
     return i;
   }
   
-  const liveTime = () => {
+const liveTime = () => {
     let data = new Date();
     let h = data.getHours();
     let m = data.getMinutes();
@@ -13,8 +13,6 @@ const addZero = (i) =>{
     m = addZero(m);
     s = addZero(s);
     document.getElementById('time').innerHTML = h + ":" + m + ":" + s;
-       setTimeout(()=> {
-      liveTime()
-    }, 1000);
-  }
-  liveTime();
+}
+
+const updateTime = setInterval(liveTime, 500);
