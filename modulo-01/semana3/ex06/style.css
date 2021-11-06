@@ -29,6 +29,8 @@ img{
     border: 2px solid gray;
     padding: 3px;  
     background-color: black;
+    width: 500px;
+    height: 500px;
 }
 
 h1{
@@ -37,3 +39,4 @@ h1{
     padding: 3px;  
     background-color: white;
 }
+
