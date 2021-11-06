@@ -5,12 +5,12 @@ const estacao = document.querySelector('div');
 
 
 const minhaEstacao = () =>{
-    if(dia >= 22 && mes == 12 ||dia >= 1 && mes == 1 || dia >= 1 && mes == 2 || dia >= 1 && dia <= 21 && mes == 3  ){
+    if(dia >= 22 && mes == 12 ||dia >= 1 && mes == 1 || dia >= 1 && mes == 2 || dia <= 21 && mes == 3  ){
         estacao.innerHTML = `
         <img src="imgs/verao.png" alt="Verão">
         <h1>Verão</h1>
         `
-    } else if( dia >= 22 && mes == 3 || dia >= 1 && mes == 4 || dia >= 1 && mes == 5 || dia >= 1 && dia <= 21 && mes == 6 ){
+    } else if( dia >= 22 && mes == 3 || dia >= 1 && mes == 4 || dia >= 1 && mes == 5 || dia <= 21 && mes == 6 ){
         estacao.innerHTML = `
         <img src="imgs/outono.png" alt="Outono">
         <h1>Outono</h1>
