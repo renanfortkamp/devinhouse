@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        class Carro{
+            constructor(cor, potencia, banco){
+                this.cor = cor
+                this.potencia= potencia
+                this.banco= banco
+            }
+            dale(){
+                console.log(`Ola! Sou um novo carro ` + this.cor)
+                console.log(`Ola! Tenho de potencia ` + this.potencia)
+                console.log(`Ola! Meus bancos são` + this.banco)
+            }
+
+        }
+
+        let c1 = new Carro("Azul",1.4,"Couro")
+        let c2 = new Carro("Vermelho",2.0,"Pano")
+        let c3 = new Carro("Cinza",4.0,"Sintentico")
+
+        c1.dale()
+
+
+    </script>
+    
+</body>
+</html>
