@@ -1,7 +1,5 @@
 class Retangulo{
-    width
-    heigth
-    constructor(width, heigth){
+     constructor(width, heigth){
          this.width = width
          this.heigth = heigth
      }
@@ -12,9 +10,3 @@ class Retangulo{
 }
 
 const retangulos = [new Retangulo(30,10),new Retangulo(30,5),new Retangulo(60,30)]
-
-
-for(index in retangulos){
-    console.log(retangulos[index].area)
-
-}
