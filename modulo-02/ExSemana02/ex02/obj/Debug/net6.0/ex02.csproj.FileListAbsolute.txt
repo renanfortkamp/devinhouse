@@ -1,0 +1,15 @@
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ex02.exe
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ex02.deps.json
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ex02.runtimeconfig.json
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ex02.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ref\ex02.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\bin\Debug\net6.0\ex02.pdb
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ref\ex02.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.pdb
+C:\aula\devinhouse\modulo-02\ExSemana02\ex02\obj\Debug\net6.0\ex02.genruntimeconfig.cache
