@@ -1,0 +1,15 @@
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\Ex05.exe
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\Ex05.deps.json
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\Ex05.runtimeconfig.json
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\Ex05.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\ref\Ex05.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\bin\Debug\net6.0\Ex05.pdb
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\ref\Ex05.dll
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.pdb
+C:\aula\devinhouse\modulo-02\ExSemana02\Ex05\obj\Debug\net6.0\Ex05.genruntimeconfig.cache
