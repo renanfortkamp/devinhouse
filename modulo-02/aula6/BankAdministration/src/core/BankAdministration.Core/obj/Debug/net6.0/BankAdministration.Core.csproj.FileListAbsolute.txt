@@ -1,0 +1,12 @@
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\bin\Debug\net6.0\BankAdministration.Core.deps.json
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\bin\Debug\net6.0\BankAdministration.Core.dll
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\bin\Debug\net6.0\ref\BankAdministration.Core.dll
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\bin\Debug\net6.0\BankAdministration.Core.pdb
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.dll
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\ref\BankAdministration.Core.dll
+C:\aula\devinhouse\modulo-02\aula6\BankAdministration\src\core\BankAdministration.Core\obj\Debug\net6.0\BankAdministration.Core.pdb
