@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\aula6",
+    "\\aula6\\BankAdministration",
+    "\\aula6\\BankAdministration\\BankAdministrationConsole",
     "\\ExSemana02"
   ],
-  "SelectedNode": "\\ExSemana02\\ex01",
+  "SelectedNode": "\\aula6\\BankAdministration\\BankAdministrationConsole\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,12 @@
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\bin\Debug\net6.0\ExemploModificadorAcesso.deps.json
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\bin\Debug\net6.0\ExemploModificadorAcesso.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\bin\Debug\net6.0\ref\ExemploModificadorAcesso.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\bin\Debug\net6.0\ExemploModificadorAcesso.pdb
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ref\ExemploModificadorAcesso.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorAcesso\obj\Debug\net6.0\ExemploModificadorAcesso.pdb

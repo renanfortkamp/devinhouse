@@ -1,0 +1,12 @@
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\bin\Debug\net6.0\ExemploModificadorProtect.deps.json
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\bin\Debug\net6.0\ExemploModificadorProtect.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\bin\Debug\net6.0\ref\ExemploModificadorProtect.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\bin\Debug\net6.0\ExemploModificadorProtect.pdb
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ref\ExemploModificadorProtect.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorProtect\obj\Debug\net6.0\ExemploModificadorProtect.pdb

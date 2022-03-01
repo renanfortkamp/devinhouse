@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploProjetoConsole/1.0.0": {
+        "dependencies": {
+          "ExemploModificadorAcesso": "1.0.0",
+          "ExemploModificadorPrivate": "1.0.0",
+          "ExemploModificadorProtect": "1.0.0"
+        },
+        "runtime": {
+          "ExemploProjetoConsole.dll": {}
+        }
+      },
+      "ExemploModificadorAcesso/1.0.0": {
+        "runtime": {
+          "ExemploModificadorAcesso.dll": {}
+        }
+      },
+      "ExemploModificadorPrivate/1.0.0": {
+        "runtime": {
+          "ExemploModificadorPrivate.dll": {}
+        }
+      },
+      "ExemploModificadorProtect/1.0.0": {
+        "runtime": {
+          "ExemploModificadorProtect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploProjetoConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploModificadorAcesso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploModificadorPrivate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploModificadorProtect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba6ed97c-5622-46aa-894f-8b90b2216728": {
+      "ProjectGuid": "ba6ed97c-5622-46aa-894f-8b90b2216728",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "89b4b9a8-3126-4a32-813d-e6bd88455cee": {
+      "ProjectGuid": "89b4b9a8-3126-4a32-813d-e6bd88455cee",
+      "DisplayName": "BankAdministration.Core",
+      "ColorIndex": 1
+    },
+    "6ed91d41-82cc-4028-b035-b8c34b4e041d": {
+      "ProjectGuid": "6ed91d41-82cc-4028-b035-b8c34b4e041d",
+      "DisplayName": "BankAdministrationConsole",
+      "ColorIndex": 2
+    },
+    "ba8b55fd-aab4-4e44-b56d-743313264fbb": {
+      "ProjectGuid": "ba8b55fd-aab4-4e44-b56d-743313264fbb",
+      "DisplayName": "BankAdministration.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

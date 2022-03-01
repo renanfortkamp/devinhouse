@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankAdministration.Core.Entities
+namespace BankSystem.Core.Entities
 {
-    public class SavingAccount: BankAccount
+    public class SavingAccount : BankAccount
     {
-        // referente a conta poupança
-        public decimal SavingIncomePercentage { get; private set; } // porcentagem de rendimento
+        public decimal SavingIncomePercentage { get; private set; } //porcentagem de rendimento poupança
         public SavingAccount(Client client) : base(client)
         {
-            SavingIncomePercentage = 0.04M;
+            SavingIncomePercentage = 0.003M;
+
         }
+
     }
 }

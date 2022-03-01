@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankAdministration.Core.Entities
+namespace BankSystem.Core.Entities
 {
     public class Client
     {
@@ -12,12 +12,18 @@ namespace BankAdministration.Core.Entities
         public string CPF { get; private set; }
         public string RG { get; private set; }
         public string Address { get; private set; }
-        public Client(string name, string cpf, string rg, string adress)
+
+
+        public Client(string name, string cpf, string rg, string address)
         {
             Name = name;
             CPF = cpf;
             RG = rg;
-            Address = adress;
+            Address = address;
         }
+
+
+
+
     }
 }

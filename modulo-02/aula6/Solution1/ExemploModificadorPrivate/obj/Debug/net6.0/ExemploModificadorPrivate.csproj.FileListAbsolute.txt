@@ -1,0 +1,12 @@
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\bin\Debug\net6.0\ExemploModificadorPrivate.deps.json
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\bin\Debug\net6.0\ExemploModificadorPrivate.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\bin\Debug\net6.0\ref\ExemploModificadorPrivate.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\bin\Debug\net6.0\ExemploModificadorPrivate.pdb
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.csproj.AssemblyReference.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.AssemblyInfoInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.AssemblyInfo.cs
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.csproj.CoreCompileInputs.cache
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ref\ExemploModificadorPrivate.dll
+C:\aula\devinhouse\modulo-02\aula6\Solution1\ExemploModificadorPrivate\obj\Debug\net6.0\ExemploModificadorPrivate.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bf63247-a86e-49c2-a98d-5a6cfb22608c": {
+      "ProjectGuid": "3bf63247-a86e-49c2-a98d-5a6cfb22608c",
+      "DisplayName": "ExemploModificadorAcesso",
+      "ColorIndex": 0
+    },
+    "df203774-5d9e-4038-8c6a-fb904220bb3a": {
+      "ProjectGuid": "df203774-5d9e-4038-8c6a-fb904220bb3a",
+      "DisplayName": "ExemploProjetoConsole",
+      "ColorIndex": 1
+    },
+    "1949f0a9-eccd-4b09-876e-b7efe4977285": {
+      "ProjectGuid": "1949f0a9-eccd-4b09-876e-b7efe4977285",
+      "DisplayName": "ExemploModificadorPrivate",
+      "ColorIndex": 2
+    },
+    "437a42d6-601c-4e1d-8af0-5a7158a1fd19": {
+      "ProjectGuid": "437a42d6-601c-4e1d-8af0-5a7158a1fd19",
+      "DisplayName": "ExemploModificadorProtect",
+      "ColorIndex": 3
+    },
+    "17e8ebb8-de2e-4f2f-adf8-198cda8fe99e": {
+      "ProjectGuid": "17e8ebb8-de2e-4f2f-adf8-198cda8fe99e",
+      "DisplayName": "ModificadorInterno",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

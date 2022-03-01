@@ -1,5 +1,5 @@
 ﻿using System;
-using BankAdministration.Core.Entities;
+using BankSystem.Core.Entities;
 
 namespace BankAdministrationConsole
 {
